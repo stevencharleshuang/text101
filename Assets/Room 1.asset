@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e16975de0225a8d49b93906d5added56, type: 3}
-  m_Name: StartState
+  m_Name: Room 1
   m_EditorClassIdentifier: 
-  storyText: "Do you know what you're doing?\r\n\r\n1. Yes\r\n2. No\r\n3. Maybe"
+  storyText: I am in Room 1
   nextStates:
-  - {fileID: 11400000, guid: 4908864ac53009a458e249296f836a82, type: 2}
   - {fileID: 11400000, guid: d4c2e6c3e7a808140a0de766fd40f5b9, type: 2}
   - {fileID: 11400000, guid: 7fcfb0d9697d668489a221f0803460cf, type: 2}
+  - {fileID: 11400000, guid: 09f5204f3669f8e43bf0761bf37d4287, type: 2}
