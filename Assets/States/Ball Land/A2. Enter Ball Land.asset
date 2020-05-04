@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e16975de0225a8d49b93906d5added56, type: 3}
+  m_Name: A2. Enter Ball Land
+  m_EditorClassIdentifier: 
+  storyText: 'You enter a land called Ball Land. It is the land of Balls and you are
+    the Lord of Balls.
+
+
+    A quick look around reveals a fuck ton of balls bouncing all over the place at
+    dangerous speeds
+
+
+    It is up to you to restore order to the chaos of this Ball Land.
+
+
+    A BALL IS ZOOMING RIGHT FOR YOUR FACE
+
+
+    Choose:
+
+    1. DODGE THE BALL
+
+    2. CATCH THE BALL'
+  nextStates:
+  - {fileID: 11400000, guid: d31859f0c2ffe1b43b3e049252f7323a, type: 2}
+  - {fileID: 11400000, guid: 277d873c477582945b25a9fca325f0b9, type: 2}

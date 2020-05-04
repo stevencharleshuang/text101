@@ -10,10 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e16975de0225a8d49b93906d5added56, type: 3}
-  m_Name: Room 1
+  m_Name: V1. Tree Victory
   m_EditorClassIdentifier: 
-  storyText: I am in Room 1
+  storyText: 'Congratulations. You are high up in a tree watching a bunch of Balls
+    bouncing all over the place but not with enough velocity to reach you at your
+    perch. That''s when you happen to notice a couple of Balls with a chain saw starting
+    to saw into the tree trunk...
+
+
+    Oh well.
+
+
+    Play again?
+
+
+    1. Sure
+
+    2. Fuck you'
   nextStates:
-  - {fileID: 11400000, guid: d4c2e6c3e7a808140a0de766fd40f5b9, type: 2}
-  - {fileID: 11400000, guid: 7fcfb0d9697d668489a221f0803460cf, type: 2}
   - {fileID: 11400000, guid: 09f5204f3669f8e43bf0761bf37d4287, type: 2}
+  - {fileID: 11400000, guid: 74dda27315853a546b643460c935e305, type: 2}

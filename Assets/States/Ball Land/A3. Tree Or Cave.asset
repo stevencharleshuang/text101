@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e16975de0225a8d49b93906d5added56, type: 3}
+  m_Name: A3. Tree Or Cave
+  m_EditorClassIdentifier: 
+  storyText: 'You manage to dodge the ball at the last possible moment.
+
+
+    YOU SPOT A TREE THAT YOU CAN CLIMB TO GET SOME HEIGHT ABOVE THE CHAOS OF BULLET
+    SPEEDING BALLS. YOU ALSO NOTICE A CAVE YOU CAN HIDE IN.
+
+
+    Choose:
+
+
+    1. CLIMB THE TREE
+
+    2. MAKE FOR THE CAVE'
+  nextStates:
+  - {fileID: 11400000, guid: 6e2de5559a24c0a4983f276a22322971, type: 2}
+  - {fileID: 11400000, guid: 48ae972b8345ed84789d9f025845b6c3, type: 2}

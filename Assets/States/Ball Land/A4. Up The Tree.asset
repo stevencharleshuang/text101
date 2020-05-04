@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e16975de0225a8d49b93906d5added56, type: 3}
+  m_Name: A4. Up The Tree
+  m_EditorClassIdentifier: 
+  storyText: 'Yeah, fuck caves. Caves are stupid. You get halfway up the tree when
+    you notice a Ball heading straight for your balls zooming in from your left.
+
+
+    Choose:
+
+
+    1. SWING TO THE LEFT
+
+    2. SWING TO THE RIGHT
+
+    3. NO TIME, TRY TO SUCK YOUR TESTES INTO YOUR BODY LIKE IN THAT KUNG FU MOVIE'
+  nextStates:
+  - {fileID: 11400000, guid: bb9ed8fe4cf79b241a677638839a3197, type: 2}
+  - {fileID: 11400000, guid: bb9ed8fe4cf79b241a677638839a3197, type: 2}
+  - {fileID: 11400000, guid: 277d873c477582945b25a9fca325f0b9, type: 2}
